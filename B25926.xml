@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters by vvhich it is certified, that Sir Samuell Lvke tooke at JSLJP fiftie horse, and fiftie pound in money, twentie seaven prisoners : Sir ---Fortescue being one, three were taken prisoners at New-Castle underline by Collonell Ridglet : fourteen taken prisoners by Collonell Mitton, in pursuing the enemy, with Trallop and others, being of the number of foureteene officers, and others taken prisoners, neere Greeneland-House; And how Nontwich and Weme, are quit of the enemie and a partie sent from the Earle of Denbigh to bring them provision : 80 prisoners taken by Major Sanders of Derby : as also how foure officers held the inn-keepers daughter of the Swan at Litchfield while Major Conavgh an Irish rebell ravisht her : and how a cavalier priest preaching, that those English and Irish that are slaine in arms against the Parliament, are marters and their soules shall by saved, was strooke dumb in his pulpit at Bvrton.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25926</idno><idno type="EEBO-CITATION">12013873</idno>
+  <idno type="VID">196721</idno>
+  <idno type="EEBO-PROQUEST">2240905068</idno>
+  
+            <idno type="STC">Wing L1775</idno>
+            <idno type="OCLC">12013873</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E49, no 29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters by vvhich it is certified, that Sir Samuell Lvke tooke at JSLJP fiftie horse, and fiftie pound in money, twentie seaven prisoners : Sir ---Fortescue being one, three were taken prisoners at New-Castle underline by Collonell Ridglet : fourteen taken prisoners by Collonell Mitton, in pursuing the enemy, with Trallop and others, being of the number of foureteene officers, and others taken prisoners, neere Greeneland-House; And how Nontwich and Weme, are quit of the enemie and a partie sent from the Earle of Denbigh to bring them provision : 80 prisoners taken by Major Sanders of Derby : as also how foure officers held the inn-keepers daughter of the Swan at Litchfield while Major Conavgh an Irish rebell ravisht her : and how a cavalier priest preaching, that those English and Irish that are slaine in arms against the Parliament, are marters and their soules shall by saved, was strooke dumb in his pulpit at Bvrton.</title>
+               </titleStmt>
+               <extent>[2], 7 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 28, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Testified by Collonell Chadwick.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chadwick, --  Collonell.</term>
+               <term type="personal_name">Luke, Samuel, --  Sir, d. 1670.</term>
+               <term type="personal_name">Fortescue, Faithful, --  Sir, 1581?-1666.</term>
+               <term type="personal_name">Fortescue, Edmund, --  Sir, 1610-1647.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196721:1"/>
+            <p>LETTERS BY VVhich it is certified, that Sir <hi>Samuell LƲKE</hi> tooke at <hi>JSLJP.</hi>
+            </p>
+            <p>Fiftie Horse, and fiftie pound in Money, Twentie Seaven Prisoners: Sir—<hi>Fortescue</hi> being one, three were taken prisoners at <hi>New-Castle</hi> underline: BY COLLONELL <hi>RIDGLEY.</hi>
+            </p>
+            <p>Foureteene taken Prisoners by Collonell <hi>MITTON,</hi> in pursuing the Enemy, with <hi>Trallop</hi> and others, being of the number of foureteene Officers, and others taken prisoners, neere <hi>Greeneland-House;</hi> And how <hi>Nontwich</hi> and <hi>Weme,</hi> are quit of the Enemie, and a partie sent from the Earle of <hi>DENBIGH</hi> to bring them provision. 80. Prisoners taken by Major <hi>Sanders</hi> of <hi>Derby.</hi> As also how foure Officers held the Inn-Keepers Daughter of the Swan at <hi>Litchfield,</hi> while Major <hi>CONAVGH</hi> an Irish Rebell ravisht her.</p>
+            <p>And how a Cavalier Priest preaching, that those English, and Irish that are slaine in Arms against the Parliament; Are Matters, and their soules shall be saved, was strooke dumb in his Pulpit at <hi>BVRTON.</hi>
+            </p>
+            <p>Testified by Collonell <hi>CHADWICK</hi>
+            </p>
+            <p>Printed according to Order London printed by <hi>F. L. May</hi> 28. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196721:2"/>
+            <pb n="1" facs="tcp:196721:2"/>
+            <head>LETTERS By which it is certified that Sir <hi>SAMƲELL LƲKE</hi> tooke at <hi>Islip</hi> 50. Horse, and 50. pound in mony, twentie seaven Prisoners Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>— <hi>Fortescue</hi> being one.</head>
+            <opener>
+               <salute>Worthy Freind,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y love to you and prayers for you,<note place="margin">Dated a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Stafford, May</hi> 24. 1644.</note> as subsequent, these to make good my promise &amp; your expectation, concern<g ref="char:EOLhyphen"/>ing the affaires in these parts, in my letter not many dayes since, I informed you in what a figure P. <hi>Ruperts</hi> Army was quartered neere <hi>VVem,</hi> and <hi>Nantwich,</hi> and how ma<g ref="char:EOLhyphen"/>ny reported to be, also how the Marques of <hi>Newcastles</hi> horse quartered at <hi>Burton,</hi> and at or about <hi>Vlster,</hi> and <hi>Newcastle underline,</hi> and were reported to be with <hi>Ha<g ref="char:EOLhyphen"/>sting,</hi> horse, and Sir <hi>Charles Lewcas,</hi> &amp; <hi>VVitherintons,</hi> and Major Generall <hi>Porters,</hi> to be three thousand Horse, and six Companies of Dragoones, these are marched neare us, and we with parties as neere their quarters, for five of Colonell <hi>Ridglies</hi> men, fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed on their Sen<g ref="char:EOLhyphen"/>tinells at <hi>Newcastle-underline,</hi> and they that charged a<g ref="char:EOLhyphen"/>bout
+<pb facs="tcp:196721:3"/> tenne of theirs at the Townes end, our men brought three Prisoners into us. All our horse and foote drew out by my Lord <hi>Denbighs</hi> order to make a body, out of which 200. were chosen, with which Col<g ref="char:EOLhyphen"/>onell <hi>Mitton,</hi> and Captaine <hi>Keme</hi> were to have beaten up the Enemies quarters, but they hearing of our ap<g ref="char:EOLhyphen"/>proach, quit their quarters, and so we only sent a small party after them, we gained that day foureteene of them, one Master <hi>Trallop</hi> &amp; his man, were in the num<g ref="char:EOLhyphen"/>ber of them, he confesseth himselfe a <hi>Yorkshire</hi> Gentl<g ref="char:EOLhyphen"/>man, but no Officer only a Volunteere, he in my hearing, told my Lord that both Armies were to joyn about <hi>VVily Bridge,</hi> &amp; so to march either to <hi>Lancashire</hi> where they expect a party to releive <hi>Latham House,</hi> or else towards the <hi>Peake,</hi> to <hi>Chesterfeild,</hi> and so to <hi>Yorke</hi> they expect the Malignants of <hi>VVestmorland,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land</hi> to joyne, they say be that time they come to <hi>Yorke</hi> to be 15000. but truly I hope the Lord will scatter them, divers have come voluntarily into us lately, and of some quality, especially such as were in <hi>Ireland,</hi> who assured us it went against the light of their conscience to march and Command those <hi>Irish Rebells,</hi> against whom they formerly fought, my Lord hath made one of them a Serjeant Major, Captaine <hi>Pinkny</hi> who brought 100. men to us, from Prince <hi>Rupert,</hi> he is a<g ref="char:EOLhyphen"/>very gallant Souldier and an honest man, and doth us good service.</p>
+            <p>Hee informeth that he had Intelligence, that Major Generall <hi>Tilliar,</hi> is discontented at the <hi>Irish</hi> also, to see how they ruine this our Nation, his native Country, I hope God will in time humble them all for this unnaturall horrid Warre.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="3" facs="tcp:196721:3"/>
+                  <opener>
+                     <salute>SIR;</salute>
+                  </opener>
+                  <p>POore <hi>Wem</hi> is now quit of those cruell bloud thir<g ref="char:EOLhyphen"/>stie borderers, and so is <hi>Nontwich;</hi> My Lord of <hi>Den<g ref="char:EOLhyphen"/>bigh</hi> hath appointed three Troopes, to relieve them, &amp; to get them in some provisions, which the enemy hath left little of in these parts.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>AMongst other newes give mee leave to relate to you, an example of Divine Iustice, of an accident which hapned upon <hi>Burton</hi> upon <hi>Trent</hi> on Sunday, <hi>May</hi> 19th. last past, 1644.</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="relation">
+                              <head>The Relation.<note place="margin">Burton up<g ref="char:EOLhyphen"/>on Trent.</note>
+                              </head>
+                              <p>
+                                 <hi>ONe</hi> Faulkland, <hi>a Cavalier Priest preaching in his place, on the Lords Day,</hi> May 19. 1644. <hi>at</hi> Burton <hi>upon</hi> Trent, <hi>amongst many other in<g ref="char:EOLhyphen"/>vectives against us, uttered these words.</hi> I engage my soule for yours, that dye in this cause, and for your King, bee the English, or Irish, that they dye Martyrs, and shall undoubtedly bee saved. <hi>With some other more full expressions, upon which, at that time hee was stroke dumb, and was taken downe, many of Newcastles Army was their at Church, hee made such signes for pen Inke and paper, but could write nothing leageble, and as yet continueth so.</hi>
+                              </p>
+                              <closer>
+                                 <dateline>This was related for a truth by a Co<g ref="char:EOLhyphen"/>lonell <hi>Chadwicke,</hi> a very honest Gentle<g ref="char:EOLhyphen"/>man, and others, very honest men, to my Lord of <hi>Denbigh</hi> as he was at dinner at <hi>Stafford,</hi>
+                                    <date>on <hi>Thursday</hi> the 23. of <hi>May</hi> 1644:</date>
+                                 </dateline>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </body>
+            </floatingText>
+            <pb n="4" facs="tcp:196721:4"/>
+            <p>Captaine <hi>Keme</hi> hath redeemed his Trumpeter, and Corporall, and one Trooper (which hee had lost on <hi>May</hi> day) from <hi>Litchfield</hi> by Exchange, who bring newes to Captaine <hi>Keme</hi> of a cruell-Rape commit<g ref="char:EOLhyphen"/>ted in <hi>Litchfield,</hi> in this manner.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="relation">
+                        <p>
+                           <hi>There were the last weeke, foure Officers, who held the womans daughter of the Swanne in</hi> Litchfield,<note place="margin">Litchfield.</note>
+                           <hi>whilst one Maior Gonaugh, Maior to</hi> Collonell <hi>Gueath ravished her: The Townesfolke petitioned the Governour</hi> Baggot <hi>about it.</hi>
+                        </p>
+                        <p>
+                           <hi>And to avoyd their Clamour, they are sent (as the Souldiers tell the Towne) to</hi> Oxford, <hi>to bee tryed at a Councell of Warre, but it is thought it is only to put them out of the way, for they too much countenance such odious sins.</hi>
+                        </p>
+                        <closer>
+                           <signed>The truth of this is declared by 3 of Captaine <hi>Kemes</hi> Officers who were then prisoners in <hi>Litchfield,</hi> Namely
+<list>
+                                 <item>
+                                    <hi>A Trumpeter</hi>
+                                 </item>
+                                 <item>
+                                    <hi>A Corporall,</hi> and one of his, <hi>Troopers.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Wee here this morning that Major <hi>Sanders,</hi> be<g ref="char:EOLhyphen"/>longing to Sir <hi>Iohn Gell</hi> hath snapt eightie of the enemies, and taken Commissary <hi>Hassett,</hi> this is all for the present of what I can write.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR;</salute>
+                  </opener>
+                  <p>
+                     <note place="margin">Stafford.</note>MY Lord of <hi>Denbigh</hi> hath diligently looked after <hi>Prince Ruperts</hi> motion, and as quickly given my
+<pb n="5" facs="tcp:196721:4"/> Lord of <hi>Manchester</hi> notice of it, and now our drumes are beating, &amp; Trumpets sounding for us to cleere this County, and to that end shall this night (I hope) set downe before a den of Dragonicke Cavaliers, the place is called <hi>Rushworth Hall,</hi> a Garison of theirs, which wee hope will not long hold us worke.</p>
+                  <p>I hope you will here my Lord will lose no time to settle, and recover his associations, would <hi>Lancashire</hi> had joyned with us; which my Lord did importune them to, as well as <hi>Cheshire;</hi> and the <hi>Morelanders.</hi>
+                  </p>
+                  <p>We were resolved to follow <hi>P. Pupert</hi> in the Reare, but by letters received from <hi>Lancashire,</hi> we are inform<g ref="char:EOLhyphen"/>ed they would spare none to come to joyne with us.</p>
+                  <p>The enemy plunders extreamly as they march, wee have gathered up many of their loyterers, and fly<g ref="char:EOLhyphen"/>ers out, and take them by parties, wee keepe our march close.</p>
+                  <p>In great haste I rest, for I am hasting to Horse, our foote being on their march, I hope you will here of our actions ere long if God please to blesse us, God preserve us all:</p>
+                  <closer>
+                     <dateline>
+                        <hi>Stafford</hi>
+                        <date>
+                           <hi>MAY</hi> 24. 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>SIr <hi>Samuell Luke</hi> fell upon the Enemies quarters at <hi>Islip</hi>
+                     <note place="margin">ISLIP.</note> neare <hi>Oxford,</hi> and by him Sir <hi>Fortescue</hi> was taken Prisoner, twentie six Prisoners more, some Officers, 50. horse, and 50. pound in mony.</p>
+               </body>
+            </floatingText>
+            <p>Some of the Enemies issued forth of <hi>Greenland House,</hi> and the <hi>Middlesex</hi> Scouts light upon a party of them at <hi>Hambleton,</hi>
+               <note place="margin">Hamble<g ref="char:EOLhyphen"/>ton.</note> where were taken Prisoners:</p>
+            <pb n="7" facs="tcp:196721:5"/>
+            <list>
+               <head>A List of the Prisoners that were taken.</head>
+               <item>Ensigne <hi>VVilliam Browne.</hi>
+               </item>
+               <item>Ens <hi>VVilliam Dethicke.</hi>
+               </item>
+               <item>Ens. <hi>Thomas Franklin.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lax</hi> Clarke.</item>
+               <item>Serjeants, <hi>Thomas Parker.</hi>
+               </item>
+               <item>Serj. <hi>Thomas Mares.</hi>
+               </item>
+               <item>Serj. <hi>Oliver Morton.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Yong</hi> Corporall.</item>
+               <item>
+                  <hi>Iohn Prile.</hi>
+               </item>
+               <item>
+                  <hi>Tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>trom Smith.</hi>
+               </item>
+               <item>
+                  <hi>Edward Heues.</hi>
+               </item>
+               <item>
+                  <hi>Iohn King.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Ienkins.</hi>
+               </item>
+               <item>
+                  <hi>Nathaniell Clarke.</hi>
+               </item>
+            </list>
+            <p>and two more of the Enemies slaine.</p>
+            <closer>
+               <dateline>Dated at my Lord Generalls quarters <date>
+                     <hi>May. 26. 1644.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
